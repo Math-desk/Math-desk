@@ -9,7 +9,7 @@
 
 ## 👤 About Me
 
-<img align='right' src='https://avatars.githubusercontent.com/u/151382262?v=4' width='200' style="border-radius:12px;">
+<img align='right' src='https://avatars.githubusercontent.com/%3CMath-desk%3E' width='200' style="border-radius:12px;">
 
 Hi! I'm **Math-Desk**, a French developer specialized in:
 
