@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Nyxaro — Developer & Creator</h1>
+<h1 align="center">🔥 MathDesk — Developer & Creator</h1>
 <p align="center">
   <b>Java & Lua Developer • FiveM • Minecraft</b><br>
   <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey?style=flat-square">
